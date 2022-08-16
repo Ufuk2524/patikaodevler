@@ -1,8 +1,8 @@
 # Kodluyoruz İlk Repo
 
 # Installation 
-- Öncelikle projeyi clonlayın
-- (https://github.com/Ufuk2524/patikaodevler.git)
+  Öncelikle projeyi clonlayın
+ https://github.com/Ufuk2524/patikaodevler.git
 
 
 
