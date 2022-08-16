@@ -1,5 +1,11 @@
 # Kodluyoruz İlk Repo
 
+#Installation 
+- Öncelikle projeyi clonlayın
+- [Clone link](https://github.com/Ufuk2524/patikaodevler.git)
+
+
+
 ## Egitimde Neler Ogrendim
 
 - Herkes İçin Temel Dersler Konusu ile : En temel günlük hayatımızın bir parçası **_Google_** da araştırma nasıl yapılırı öğrendim.
