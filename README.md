@@ -1,4 +1,4 @@
-# Başlangıc Seviye Frontend Web Development Patikasi
+# Kodluyoruz İlk Repo
 
 ## Egitimde Neler Ogrendim
 
