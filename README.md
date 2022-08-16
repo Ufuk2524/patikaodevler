@@ -1,12 +1,6 @@
 # Kodluyoruz İlk Repo
 - Bu repo Kodluyoruz patika Frontend eğitiminde oluşturduğum ilk repo.İçerisinde bir adet README dosyası ve 1 adet index.html barındırıyor.
 
-# Installation 
- ## Öncelikle projeyi clonlayın
-$ https://github.com/Ufuk2524/patikaodevler.git
-
-
-
 ## Egitimde Neler Ogrendim
 
 - Herkes İçin Temel Dersler Konusu ile : En temel günlük hayatımızın bir parçası **_Google_** nasıl kullanırız nasıl daha verimli  araştırma nasıl yapılırı öğrendim.
