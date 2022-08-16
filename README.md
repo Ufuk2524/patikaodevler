@@ -3,7 +3,7 @@
 
 # Installation 
  ## Öncelikle projeyi clonlayın
- ### https://github.com/Ufuk2524/patikaodevler.git
+$ https://github.com/Ufuk2524/patikaodevler.git
 
 
 
