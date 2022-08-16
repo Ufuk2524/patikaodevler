@@ -1,4 +1,5 @@
 # Kodluyoruz İlk Repo
+- Bu repo Kodluyoruz patika Frontend eğitiminde oluşturduğum ilk repo.İçerisinde bir adet README dosyası ve 1 adet index.html barındırıyor.
 
 # Installation 
  ## Öncelikle projeyi clonlayın
