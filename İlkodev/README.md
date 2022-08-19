@@ -1,8 +1,9 @@
-# Başlangıc Seviye Frontend Web Development Patikasi
+# Kodluyoruz İlk Repo
+- Bu repo Kodluyoruz patika Frontend eğitiminde oluşturduğum ilk repo.İçerisinde bir adet README dosyası ve 1 adet index.html barındırıyor.
 
 ## Egitimde Neler Ogrendim
 
-- Herkes İçin Temel Dersler Konusu ile : En temel günlük hayatımızın bir parçası **_Google_** da araştırma nasıl yapılırı öğrendim.
+- Herkes İçin Temel Dersler Konusu ile : En temel günlük hayatımızın bir parçası **_Google_** nasıl kullanırız nasıl daha verimli  araştırma nasıl yapılırı öğrendim.
 
 - Visual Studio Code Kullanımı : Bir yazılım diline hakim olmak kadar , kod düzenleme aracına da ne kadar hakim olursak işlerin o kadar kolaylaşacağını deneyimledim.
 
